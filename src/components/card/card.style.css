@@ -11,6 +11,10 @@
     transition: transform 0.25s ease-out;
 }
 
+p {
+    font-size: 12px;
+}
+
 .card-container:hover {
     transform: scale(1.05);
 }
